@@ -1,5 +1,5 @@
 ## prerequisites
-Install node.js 6.9 for your operating system
+Install node.js 6.9 LTS for your operating system
 ## Running the server
 * open the command prompt or a terminal 
 * navigate to the project folder 
